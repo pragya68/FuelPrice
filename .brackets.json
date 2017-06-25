@@ -1,0 +1,31 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/platforms/ios/www/lib/ionic/js/angular/angular-sanitize.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/gulpfile.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/platforms/ios/www/lib/ionic/js/angular/angular-sanitize.min.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/platforms/ios/www/lib/ionic/js/angular/angular.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/platforms/ios/www/lib/ionic/js/angular/angular.min.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/platforms/ios/www/lib/ionic/js/angular-ui/angular-ui-router.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/platforms/ios/www/lib/ionic/js/angular-ui/angular-ui-router.min.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/platforms/ios/www/lib/ionic/js/ionic-angular.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/platforms/ios/www/lib/ionic/js/ionic-angular.min.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/platforms/ios/www/lib/ionic/js/ionic.bundle.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/platforms/ios/www/lib/ionic/js/ionic.bundle.min.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/platforms/ios/www/lib/ionic/js/ionic.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/platforms/ios/www/lib/ionic/js/ionic.min.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/platforms/ios/www/plugins/cordova-plugin-statusbar/www/statusbar.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/platforms/ios/www/plugins/ionic-plugin-keyboard/www/ios/keyboard.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/platforms/ios/www/cordova.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/platforms/ios/www/cordova_plugins.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/platforms/ios/www/service-worker.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/plugins/cordova-plugin-console/tests/tests.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/plugins/cordova-plugin-console/www/console-via-logger.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/plugins/cordova-plugin-console/www/logger.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/plugins/cordova-plugin-device/src/blackberry10/index.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/plugins/cordova-plugin-device/src/browser/DeviceProxy.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/plugins/cordova-plugin-device/src/firefoxos/DeviceProxy.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/plugins/cordova-plugin-device/src/tizen/DeviceProxy.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/plugins/cordova-plugin-device/src/ubuntu/device.js",
+        "C:/Users/pragy/Desktop/FulePrice/fuelPrice/plugins/cordova-plugin-device/src/windows/DeviceProxy.js"
+    ]
+}
